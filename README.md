@@ -17,6 +17,7 @@ Install visual studio editor and then install thunder extensions. You run the pr
 5. Render
 
 ## Github link
+https://github.com/rugendo/gallery.git
 
 ## Contact us via 
 ercrugendo@gmail.com
