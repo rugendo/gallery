@@ -7,7 +7,7 @@ The project involves cloning an existing repository from github. Connecting the 
 Install visual studio editor and then install thunder extensions. You run the provided live link on web or on thunder.
 
 ## Authors
-1. Eric 
+1. Eric Rugendo
 
 ## Technologies
 1. Node
