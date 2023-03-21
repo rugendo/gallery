@@ -1,7 +1,7 @@
 # Working with Jenkins Pipeline
 
 ### Description
-The project involves cloning an existing repository from github. Connecting the cloned reository to your Mongo db. Deploying the project on render and then creating pipeline using jenkins.
+The project involves cloning an existing repository from github. Connecting the cloned reository to your Mongo db. Deploying the project on render and creating pipeline using jenkins.
 
 ## How to install
 Install visual studio editor and then install thunder extensions. You run the provided live link on web or on thunder.
