@@ -23,7 +23,7 @@ pipeline {
 
 
         }
-        stage('Test') {
+        stage('test') {
             steps {
                 sh '''
                    npm run test
@@ -32,4 +32,5 @@ pipeline {
         }
     }
 }
+
         
