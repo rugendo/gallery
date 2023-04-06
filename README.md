@@ -19,6 +19,9 @@ Install visual studio editor and then install thunder extensions. You run the pr
 ## Github link
 https://github.com/rugendo/gallery.git
 
+## Render link
+https://week6ip-sluz.onrender.com
+
 ## Contact us via 
 ercrugendo@gmail.com
 
