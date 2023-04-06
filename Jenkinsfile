@@ -33,7 +33,8 @@ pipeline {
         stage('Deploying to Render') {
             steps {
                 sh '''
-                   curl -X GET https://api.render.com/deploy/srv-cgbfrl5269v4icrkets0?key=UYqwBbB2fno
+                   curl -X POST https://api.render.com/deploy/srv-cgbfrl5269v4icrkets0?key=UYqwBbB2fno&ref=03f509a09155ad3ac93db05f9f0f2bdd9e450f6f
+                   
                    '''
             }
         }
