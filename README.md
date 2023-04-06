@@ -15,6 +15,7 @@ Install visual studio editor and then install thunder extensions. You run the pr
 3. Jenkins
 4. Mongodb
 5. Render
+6. Slack
 
 ## Github link
 https://github.com/rugendo/gallery.git
