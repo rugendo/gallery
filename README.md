@@ -27,7 +27,7 @@ https://week6ip-sluz.onrender.com
 ercrugendo@gmail.com
 
 ## Lisence
-ISC @ rugendo 2023
+ISC @rugendo 2023
 
 
 
