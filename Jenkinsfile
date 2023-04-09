@@ -43,6 +43,19 @@ pipeline {
                 echo 'The build has ended successfully'
             }
         }
+        post {
+            success {
+                slackSend "Build was successful - ${env.JOB_NAME} ${env.BUILD_NUMBER} (<${env.BUILD_URL}|Open>)"
+            }       
+            
+        }
+        post {
+            failure {
+                slackSend failOnError:true message: "Build failed - ${env.JOB_NAME} ${env.BUILD_NUMBER} (<${env.BUILD_URL}|Open>)"
+            }       
+            
+        }
+    
 
     }
 }
